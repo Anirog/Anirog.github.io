@@ -28,7 +28,7 @@ I'm using a version of the dash plus productivity system by Richard Rhone on my 
 
 **Links**
 
-[Etsy Mini Note Pad + Stencil 3D Printed Organiser](https://tidd.ly/49RmYRD)
+[Etsy Note Pad 3x5 Index Cards 3D Printed Organiser](https://tidd.ly/49RmYRD)
 
 [Dash plus prodictitivy system](https://patrickrhone.com/dashplus/) by Richard Rhone
 
