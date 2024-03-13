@@ -28,7 +28,7 @@ I'm using a version of the dash plus productivity system by Richard Rhone on my 
 
 **Links**
 
-[Etsy Note Pad 3x5 Index Cards 3D Printed Organiser](https://tidd.ly/49RmYRD)
+[Etsy Note Pad 3x5 Index Cards 3D Printed Organiser](https://tidd.ly/3PoAkfZ)
 
 [Oxford Blank Index Cards, 3x5-Inch, White, 100 Pack](http://www.amazon.co.uk/dp/B00006IFCW/ref=nosim?tag=larrie-21)
 
