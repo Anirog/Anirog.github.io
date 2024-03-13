@@ -16,7 +16,7 @@ It's lovely but expensive at $104 for the starter kit, then you have to take int
 
 Because of the price and because ugmonk ships from the USA (often a lot of hassle in the UK) I started looking for an alternative and found exactly what I was looking for on Etsy a nice 3D printed to-do list card holder, that so far has been a nice addition to my desk setup.
 
-The card holder is £9.99 It comes with a set of blank cards and a handy stencil so you can easily make your own cards and replacement cards cost £1.49 for a pack, a pack contains 90 cards.
+The card holder is £15.99 and uses 3x5 inch Index Cards, that are easily available.
 
 I'm using a version of the dash plus productivity system by Richard Rhone on my cards.
 
@@ -28,7 +28,7 @@ I'm using a version of the dash plus productivity system by Richard Rhone on my 
 
 **Links**
 
-[Etsy Mini Note Pad + Stencil 3D Printed Organiser](https://www.etsy.com/uk/listing/1165643773/mini-note-pad-stencil-3d-printed)
+[Etsy Mini Note Pad + Stencil 3D Printed Organiser](https://tidd.ly/49RmYRD)
 
 [Dash plus prodictitivy system](https://patrickrhone.com/dashplus/) by Richard Rhone
 
