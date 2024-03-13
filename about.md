@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, I’m Larrie. Hay fever sufferer and geek, I like making websites, playing guitar, reading and coffee.
+Hi, I’m Larrie. Hay fever sufferer and geek and this is my blog.
