@@ -32,4 +32,4 @@ I'm using a version of the dash plus productivity system by Richard Rhone on my 
 
 [Dash plus prodictitivy system](https://patrickrhone.com/dashplus/) by Richard Rhone
 
-[My Productivity Desk Setup](https://youtu.be/5791L8VEHZw) by Ali Abdall
+[My Productivity Desk Setup](https://youtu.be/5791L8VEHZw?t=523) by Ali Abdall
