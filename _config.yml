@@ -83,3 +83,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+# Use remote theme
+  remote_theme: the-plain
