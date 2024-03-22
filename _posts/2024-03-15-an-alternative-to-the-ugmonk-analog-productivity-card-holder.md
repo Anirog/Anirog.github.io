@@ -1,8 +1,10 @@
 ---
 layout: post
 title: An Alternative to the Ugmonk Analog Productivity Card Holder
-published: true
+date: 2024-03-15
+categories: [productivity]
 ---
+
 
 I saw the ugmonk analog productivity card holder on YouTube it's a nice wooden card holder that holds productivity cards. There are three different cards: Today, Next and Someday.
 
@@ -10,7 +12,7 @@ You write to-dos on the cards then mark the cards using different symbols based 
 
 ## The ugmonk analog
 
-![Alt Text](/images/IMG_0938.jpg)
+![The Ugmonk Analog](https://anirog.github.io/images/IMG_0938.jpg)
 
 It's lovely but expensive at £86 for the starter kit, then you have to take into account the ongoing cost of buying new cards, the cards cost £31 for a pack, each pack contains 50 cards.
 
@@ -20,11 +22,11 @@ The card holder is £15.99 and uses 3x5 inch index cards, that are easily availa
 
 I'm using a version of the dash plus productivity system by Richard Rhone on my cards.
 
-![The dash plus productivity system](/images/IMG_0939.jpg)
+![The dash plus productivity system](https://anirog.github.io/images/IMG_0939.jpg)
 
 ## The Etsy card holder
 
-![The Etsy card holder](/images/IMG_0940.WEBP)
+![The Etsy card holder](https://anirog.github.io/images/IMG_0940.WEBP)
 
 **Links**
 
@@ -35,3 +37,4 @@ I'm using a version of the dash plus productivity system by Richard Rhone on my 
 [Dash plus prodictitivy system](https://patrickrhone.com/dashplus/) by Richard Rhone
 
 [My Productivity Desk Setup](https://youtu.be/5791L8VEHZw?t=523) by Ali Abdall
+
