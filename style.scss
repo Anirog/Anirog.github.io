@@ -120,10 +120,18 @@ img {
   color: $gray;
 }
 
+// My styles start
+
 .post-date {
   font-size: 14px;
   color: #828282;
 }
+
+.post-date-container {
+  margin: 0;
+}
+
+// My styles end
 
 // Specify the color of the selection
 ::-moz-selection {
