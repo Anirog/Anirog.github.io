@@ -50,7 +50,7 @@ h1 {
     color: #4183C4;
   }
 
-  :hover {
+  a:hover {
     color: #111;
     text-decoration: underline;
   }
@@ -75,11 +75,16 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #4183C4;
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
+  :active {
     color: $blue;
+  }
+
+  :hover {
+    color: #111;
+    text-decoration: underline;
   }
 }
 
