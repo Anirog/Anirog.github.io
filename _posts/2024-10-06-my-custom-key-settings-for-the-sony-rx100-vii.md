@@ -5,7 +5,7 @@ date: 2024-10-06
 categories: [photography]
 ---
 
-On the rear of the RX100 VII, there are six primary buttons and a dial with four directional buttons, giving you a total of ten assignable options. After experimenting with various setups, I’ve fine-tuned my custom keys to suit my shooting style. Here’s how I’ve set them up:
+On the rear of the RX100 VII, there are six primary buttons and a dial with four directional buttons. After experimenting with various setups, you can customise some of these buttons to change settings quickly without having to go into the settings menu of the camera, I’ve fine tuned my custom keys to suit my shooting style. Here’s how I’ve set them up:
 
 ![Sony RX100 rear](https://ik.imagekit.io/1wh3oo1zp/rx100-custom-keys_FbiodF95W)
 
